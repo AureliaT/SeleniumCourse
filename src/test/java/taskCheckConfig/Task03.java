@@ -6,6 +6,8 @@ import org.openqa.selenium.WebDriver.Navigation;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import java.time.Duration;
+
 public class Task03 {
     public static void main(String[] args) {
 
@@ -17,7 +19,7 @@ public class Task03 {
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.get("http://www.google.com");
-        WebElement acceptCookiesButton = driver.findElement(By.id("L2AGLb")); //znajdowanie przycisku akceptacji cookies na stronie google
+        WebElement acceptCookiesButton = driver.findElement(By.id("L2AGLb"));
         acceptCookiesButton.click();
         driver.get("https://coderslab.pl/pl");
         driver.navigate().back();

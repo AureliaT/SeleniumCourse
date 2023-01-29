@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99217b5f-283f-4a50-8d31-d088fd1997ae" name="Changes" comment="Selenium project">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/drivers/chromedriver.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/taskCheckConfig/GoogleSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/taskCheckConfig/GoogleSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/taskCheckConfig/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/taskCheckConfig/Task01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/taskCheckConfig/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/taskCheckConfig/Task02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/taskCheckConfig/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/taskCheckConfig/Task03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,7 @@
       <recent name="C:\Users\Loki88\Documents\CodersLab\zadania\SeleniumCourse\src\main\resources\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task03">
+  <component name="RunManager" selected="Application.Task02">
     <configuration name="GoogleSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="taskCheckConfig.GoogleSearch" />
       <module name="SeleniumCourse" />
@@ -125,8 +126,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task03" />
         <item itemvalue="Application.Task02" />
+        <item itemvalue="Application.Task03" />
         <item itemvalue="Application.Task01" />
         <item itemvalue="Application.GoogleSearch" />
       </list>
@@ -162,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674985952016</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Selenium project">
+      <created>1674990365593</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674990365593</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

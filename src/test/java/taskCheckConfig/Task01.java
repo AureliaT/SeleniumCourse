@@ -14,7 +14,7 @@ public class Task01 {
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.get("http://www.google.com");
-        WebElement acceptCookiesButton = driver.findElement(By.id("L2AGLb")); //znajdowanie przycisku akceptacji na stronie google
+        WebElement acceptCookiesButton = driver.findElement(By.id("L2AGLb"));
         acceptCookiesButton.click();
         WebElement element = driver.findElement(By.name("q"));
         element.clear();
