@@ -26,6 +26,7 @@ public class Task05 {
         personalInformation.click();
         driver.navigate().back();
         WebElement myAdress = driver.findElement(By.cssSelector("a[title='Addresses'] span"));
+        myAdress.click();
         driver.navigate().back();
         driver.quit();
     }

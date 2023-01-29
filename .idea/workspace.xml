@@ -71,7 +71,7 @@
       <recent name="C:\Users\Loki88\Documents\CodersLab\zadania\SeleniumCourse\src\main\resources\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task04">
+  <component name="RunManager" selected="Application.Task05">
     <configuration name="Task04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="elements.Task04" />
       <module name="SeleniumCourse" />
@@ -139,8 +139,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task04" />
         <item itemvalue="Application.Task05" />
+        <item itemvalue="Application.Task04" />
         <item itemvalue="Application.elements.Task03" />
         <item itemvalue="Application.elements.Task02" />
         <item itemvalue="Application.elements.Task01" />
