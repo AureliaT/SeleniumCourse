@@ -20,6 +20,9 @@ public class Task01 {
         element.clear();
         element.sendKeys("Itaka");
         element.submit();
+        //WebElement element2 = driver.findElement(By.className("sVXRqc"));
+        //element2.click();
+        //element.submit();
         driver.quit();
     }
 
